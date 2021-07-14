@@ -18,6 +18,8 @@ Collection of bookmarklets for SFDC to automate certain actions
 - Get list of customers (Account page, max 5)
 - Filter assets to only active assets (Assets page)
 - Filter assets to only Customer Success Services assets (Assets page)
+- WIP: Filter to open cases + recent cases
+- WIP: Filter to open opportunities
 
 
 
@@ -25,3 +27,9 @@ Collection of bookmarklets for SFDC to automate certain actions
 - Discover more actions to automate
 - Prompting for user input?
 - Copying returned data to clipboard?
+- Navigating to links on page, waiting for load, then executing more code
+- Going back, waiting for load, then executing more code
+- **Interacting with local python server**
+    - Performing advanced logic
+    - Interacting with CRUD database
+    - Performing python automation actions (sending emails)
