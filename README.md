@@ -19,3 +19,9 @@ Collection of bookmarklets for SFDC to automate certain actions
 - Filter assets to only active assets (Assets page)
 - Filter assets to only Customer Success Services assets (Assets page)
 
+
+
+### Todo + Future
+- Discover more actions to automate
+- Prompting for user input?
+- Copying returned data to clipboard?
