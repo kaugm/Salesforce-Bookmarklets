@@ -33,3 +33,5 @@ if (contactsList.length < contactsLimit) {
 const uniqueContactsArr = contactsList.slice(0, contactsLimit);
 uniqueContacts = uniqueContactsArr.join('');
 alert(uniqueContacts);
+
+
